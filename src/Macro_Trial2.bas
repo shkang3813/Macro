@@ -43,6 +43,6 @@ Sub Macro_Body4()
         .LineUnitAfter = 0
         .MirrorIndents = False
         .TextboxTightWrap = wdTightNone
-        .CollapsedByDefault = False
+        .CollapsedByDefault = False %*i get a method or data member not found at this line
     End With
 End Sub
